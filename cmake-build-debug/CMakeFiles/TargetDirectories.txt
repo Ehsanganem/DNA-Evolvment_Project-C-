@@ -1,0 +1,3 @@
+C:/Users/ganim/virus_hw1_advanced/cmake-build-debug/CMakeFiles/virus_hw1_advanced.dir
+C:/Users/ganim/virus_hw1_advanced/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ganim/virus_hw1_advanced/cmake-build-debug/CMakeFiles/rebuild_cache.dir
